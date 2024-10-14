@@ -71,6 +71,7 @@ html,body{
 
     margin: 0;
     padding-top: 40px;
+    list-style-type: none;
 }
 
 /*styling the vertical nav-bar links*/
