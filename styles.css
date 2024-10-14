@@ -73,6 +73,15 @@ html,body{
     padding-top: 40px;
 }
 
+/*styling the vertical nav-bar links*/
+#nav2 a{
+    text-decoration: none;
+    color: rgb(8, 51, 8);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+
 .box#cont{
      background-color: rgb(54, 63, 60);
      flex-grow: 8;
