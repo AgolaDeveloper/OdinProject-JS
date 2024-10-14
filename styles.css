@@ -6,8 +6,7 @@
 
     margin: 0;
     padding: 0;
-    align-items: center;
-    justify-content: center;
+     justify-content: center;
 }
 
 .block{
@@ -20,10 +19,20 @@
 
 .block#nav{
     flex-direction: row;
+
+    flex-grow: 0.5;
     align-items: center;
     justify-content: start;
     gap: 30px;
 
     list-style-type: none;
     background-color: black;
+}
+
+.block#main{
+    flex-grow: 8;
+}
+
+.block#footer{
+    flex-grow: 1.5;
 }
