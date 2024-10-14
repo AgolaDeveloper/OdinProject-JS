@@ -36,7 +36,14 @@ html,body{
     gap: 30px;
 
     list-style-type: none;
-    background-color: black;
+    background-color: rgba(0, 0, 0, 0.664);
+}
+
+#nav a{
+    text-decoration: none;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
 }
 
 .block#main{
