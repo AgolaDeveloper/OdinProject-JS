@@ -43,7 +43,15 @@ html,body{
     text-decoration: none;
     color: white;
     font-family: 'Times New Roman', Times, serif;
-    font-size: medium;
+    font-weight: bold;
+
+ }
+
+/*nav-bar links on hover*/
+#nav a:hover{
+    color:black;
+    border-bottom: 2px solid white;
+    font-weight: lighter;
 }
 
 .block#main{
