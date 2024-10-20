@@ -75,6 +75,12 @@ html,body{
 }
 
 /*styling the vertical nav-bar links*/
+
+#nav2 ul{
+    list-style-type: none;
+}
+
+
 #nav2 a{
     text-decoration: none;
     color: rgb(8, 51, 8);
