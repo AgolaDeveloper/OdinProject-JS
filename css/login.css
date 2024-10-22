@@ -7,4 +7,11 @@
 
  body{
     min-height: 100vh;
+    background-color: rgb(194, 194, 121);
+ }
+
+ /*Styling the nav-bar*/
+
+ nav{
+    background-color: aliceblue;
  }
