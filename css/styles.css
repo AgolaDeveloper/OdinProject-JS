@@ -40,3 +40,8 @@ nav{
     font-weight: bold;
     font-family: 'Times New Roman', Times, serif;
  }
+
+ nav a:hover{
+    background-color: white;
+    border-bottom: 2px solid rgb(14, 14, 17);
+ }
