@@ -50,4 +50,13 @@ nav{
     color: brown;   
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: x-large;
-}
+
+ }
+
+ nav #logo:hover{
+    color: gray;
+    border-bottom: 0;
+    background-color: aliceblue;
+ }
+
+ 
