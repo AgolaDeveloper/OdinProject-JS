@@ -1,39 +1,10 @@
-html,body{
-    height: 100%;
-    margin: 0;
+ /*styling for the login page*/
+
+ *{
     padding: 0;
-}
+    margin: 0;
+ }
 
-.container{
-    display: flex;
-    flex-direction: column;
-
-    align-items: center;
-    justify-content: center;
-
-    border: 1px solid green;
-    height: 100%;
-}
-
-.wrapper{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    border: 1px solid red;
-    border-radius: 20px;
-
-    height: 50%;
-    width:30%;
-
-    background-color: rgb(197, 185, 185);
-}
-
-#p p{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: small;
-    color: red;
-}
-
- 
-
+ body{
+    min-height: 100vh;
+ }
