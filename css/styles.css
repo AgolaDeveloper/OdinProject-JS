@@ -47,16 +47,18 @@ nav{
  }
 
  #logo{
-    color: brown;   
+    color: gray; 
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: x-large;
 
  }
 
  nav #logo:hover{
-    color: gray;
+    color: brown;
     border-bottom: 0;
     background-color: aliceblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
  }
 
  
