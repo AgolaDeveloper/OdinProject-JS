@@ -15,3 +15,13 @@
  nav{
     background-color: aliceblue;
  }
+
+ nav ul{
+   width: 100%;
+   
+   list-style-type: none;
+
+   display: flex;
+   justify-content: flex-end;
+   align-items: center;
+ }
