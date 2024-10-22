@@ -28,3 +28,18 @@
  nav li{
    height: 50px;
  }
+
+ nav a{
+   height: 100%;
+
+   text-decoration: none;
+
+   display: flex;
+   align-items: center;
+   justify-content: center;
+
+   color: black;
+   font-weight: bold;
+   font-family: 'Times New Roman', Times, serif;
+
+ padding: 0 20px;}
