@@ -3,9 +3,9 @@
 //Event-handlers
 //#event-listeners
 
-const nav=document.getElementById("navbar");
-nav.addEventListener("mouseover", alerrt);
+const nav=document.getElementById("logo");
+logo.addEventListener("click", alerrt);
 
 function alerrt(){
-    alert("This is the site's navigation bar");
+    alert("Welcome to TekDen... a den of bonafide Techies");
 }
