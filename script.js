@@ -4,8 +4,8 @@
 //#event-listeners
 
 const nav=document.getElementById("navbar");
-nav.addEventListener(MouseEvent, alerrt);
+nav.addEventListener("mouseover", alerrt);
 
 function alerrt(){
-    alert("This is the site's navigation bar")
+    alert("This is the site's navigation bar");
 }
