@@ -11,27 +11,4 @@ body{
 
 
 /*Styling the REGISTRATION form*/
-.wrapper{
-    min-height: 100vh;
-
-    border: 2px solid red;
-
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-}
-
-form{
-    border: 1px solid green;
-
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-
-    gap: 20px;
-
-    padding: 50px;
-
-}
+ 
