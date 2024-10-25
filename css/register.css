@@ -68,11 +68,21 @@ form h2{
     align-self: center;
     border: 0;
     box-sizing: border-box;
+    background-color: black;
+   color: white;
+   text-transform: capitalize;
+    font-weight: bold;
 
     margin-top: 30px;
     padding: 1em;
     border-radius: 15px;
     cursor: pointer;
+ }
+
+ form button:hover{
+   box-sizing: border-box;
+   text-transform: uppercase;
+
  }
 
  form input{
@@ -93,9 +103,16 @@ form h2{
  a{
     text-decoration: none;
     color: blue;
+    
  }
 
  a:hover{
+   box-sizing: border-box;
     text-decoration: underline;
     color: green;
+    text-transform: uppercase;
  }
+
+  
+
+
