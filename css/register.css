@@ -22,5 +22,17 @@ body{
     justify-content: center;
     align-items: center;
     
+    gap: 30px;
+}
+
+form{
+    border: 1px solid green;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
     
+    background-color: bisque;
+    padding: 30px;
+
 }
