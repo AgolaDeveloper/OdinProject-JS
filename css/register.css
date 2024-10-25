@@ -1,4 +1,12 @@
 /*this is the styling sheet for registration page*/
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    min-height: 100%;
+}
 
 
 
