@@ -1,2 +1,13 @@
 /*this is the styling sheet for registration page*/
 
+
+
+/*Styling the REGISTRATION form*/
+.wrapper{
+    min-height: 100vh;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
