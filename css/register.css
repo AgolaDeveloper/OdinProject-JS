@@ -43,3 +43,11 @@ form h2{
     text-align: center;
 }
 
+
+ form div{
+    border: 1px solid blue;
+
+    display: flex;
+    justify-content: flex-start;
+    align-items: stretch;
+ }
