@@ -27,8 +27,7 @@ body{
 
 form{
     box-sizing: border-box;
-    border: 1px solid green;
-
+    border-radius: 30px;
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
@@ -45,8 +44,7 @@ form h2{
 
 
  form div{
-    border: 1px solid blue;
-
+ 
     display: flex;
     justify-content: flex-start;
     align-items: stretch;
@@ -59,8 +57,7 @@ form h2{
  }
 
  form div > *{
-    border: 1px solid green;
-
+ 
     display: flex;
     justify-content: flex-start;
     align-items: center;
