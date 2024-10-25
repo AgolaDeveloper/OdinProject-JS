@@ -26,11 +26,13 @@ body{
 }
 
 form{
+    box-sizing: border-box;
     border: 1px solid green;
 
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
+    gap: 20px;
     
     background-color: bisque;
     padding: 30px;
@@ -40,3 +42,4 @@ form{
 form h2{
     text-align: center;
 }
+
