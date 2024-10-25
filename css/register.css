@@ -50,4 +50,11 @@ form h2{
     display: flex;
     justify-content: flex-start;
     align-items: stretch;
+
+    height: 1.5em;
  }
+
+ form div> label{
+    flex-grow: 2;
+ }
+
