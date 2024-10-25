@@ -75,3 +75,13 @@ form h2{
     cursor: pointer;
  }
 
+ form input{
+    box-sizing: border-box;
+    border: 0;
+    border-radius: 10px;
+
+    padding-left: 13px;
+
+    background-color: rgb(229, 240, 236);
+ }
+
