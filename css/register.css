@@ -39,6 +39,7 @@ form{
 
 }
 
+
 form h2{
     text-align: center;
 }
@@ -111,6 +112,10 @@ form h2{
     text-decoration: underline;
     color: green;
     text-transform: uppercase;
+ }
+
+ div:has(input:focus) label{
+   color: blue;
  }
 
   
